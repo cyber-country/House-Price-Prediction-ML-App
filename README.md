@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-##📌 Future Improvements
+## 📌 Future Improvements
 
 Add advanced models (Random Forest, XGBoost)
 
@@ -71,6 +71,6 @@ Improve dataset quality and size
 
 Deploy application online
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 R Santoshwaran
